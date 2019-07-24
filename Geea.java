@@ -15,6 +15,7 @@ public class Geea {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.err.println("oy");
         // TODO code application logic here
     }
     
